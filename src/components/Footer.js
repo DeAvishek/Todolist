@@ -10,11 +10,12 @@ const Footer = () => {
 };
 
 const footerStyle = {
-  marginTop: '20px',
+  marginTop: '260px',
   padding: '10px',
   backgroundColor: 'rgb(16 15 7 / 52%)',
   textAlign: 'center',
-  color:"white"
+  color:"white",
+  position:"realtive"
 };
 
 export default Footer;
